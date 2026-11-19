@@ -1,24 +1,14 @@
-body {
-   font-family: Arial, Helvetica, sans-serif;
-   background-color: whitesmoke;
-   color: rgb(2, 2, 2);    /*body هاد اللون هو لكل الخطوط يلي بال */ 
-   max-width: 700px;
-   margin: 40px auto;     /* مسافة خارج العنصر (بينه وبين العناصر الأخرى) */
-   padding: 0 20px;   /*مسافة داخل العنصر (بين النص وحدّه)   */
+body{
+font-family: 'Times New Roman', Times, serif;
+background-color: antiquewhite;
+color: black;
+max-width: 700px;
+margin: 40px auto;
+padding: 0 20px;
+
+
+
+
+
 
 }
-
-
-h1{
-    color: rgb(203, 141, 141);
-}
- h2{
-  color: #2f0432;
-   border-bottom: 2px solid #b471ba;  /* الحدّ بينهما*/
-   padding-bottom: 20px;
-}
-
-li {
-  color: #b471ba;
-    margin-bottom: 8px;
-  }
