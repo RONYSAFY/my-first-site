@@ -7,18 +7,16 @@ margin: 40px auto;  /*فوق وتحت: مسافة خارجية 40px. يمين و
 padding: 0 20px;   /* فوق وتحت: 0. يمين ويسار: 20px مسافة داخلية، لئلا يلتصق النص بحافة الشاشة (خصوصًا بالجوال) */
 
 h1 {
-  text-align: center;
+
   color: rgb(0, 0, 0);
 }
 
 h2{
-  text-align: center;
 border-bottom: 2px solid black ;  /* يرسم خطًا تحت العنوان: سماكته 2px، نوعه متصل (solid)، ولونه أسود */
 padding-bottom:  6px;   /* مسافة 6px بين النص والخط، حتى لا يلتصقا */
 }
 
 li{
-  
   margin-bottom: 8px; /* يترك مسافة 8px تحت كل عنصر في القائمة لتبدو مرتبة ومريحة.  */
 }
 
