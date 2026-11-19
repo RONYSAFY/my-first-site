@@ -2,8 +2,8 @@ body {
    font-family: Arial, Helvetica, sans-serif;
    background-color: whitesmoke;
    color: rgb(2, 2, 2);    /*body هاد اللون هو لكل الخطوط يلي بال */ 
-   max-width: 500px;
-   margin: 100px auto;     /* مسافة خارج العنصر (بينه وبين العناصر الأخرى) */
+   max-width: 0px;
+   margin: 0px auto;     /* مسافة خارج العنصر (بينه وبين العناصر الأخرى) */
    padding: 0 20px;   /*مسافة داخل العنصر (بين النص وحدّه)   */
 
 }
