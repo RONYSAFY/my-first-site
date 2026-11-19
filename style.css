@@ -1,0 +1,22 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: bisque;
+   color: rgb(0, 0, 0);
+   max-width: 700px;
+   margin: 40px auto;
+   padding: 0 20px;
+
+}
+
+
+h1{
+    color: #2a5db0;
+}
+ h2{
+   border-bottom: 2px solid #2a5db0;
+   padding-bottom: 6px;
+}
+
+li {
+    margin-bottom: 8px;
+  }
