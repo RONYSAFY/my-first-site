@@ -13,6 +13,7 @@ h1{
     color: rgb(203, 141, 141);
 }
  h2{
+  color: brown;
    border-bottom: 2px solid #b471ba;  /* الحدّ بينهما*/
    padding-bottom: 20px;
 }
