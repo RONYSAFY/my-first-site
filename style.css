@@ -8,16 +8,16 @@ padding: 0 20px;
 
 h1 {
 
-  color: aqua;
+  color: rgb(0, 0, 0);
 }
 
 h2{
-border-bottom: 2px saddlebrown;
-padding-bottom:  6px;
+border-bottom: 2px solid black ;
+padding-bottom:  6px;   /* مسافة 6px بين النص والخط، حتى لا يلتصقا */
 }
 
 li{
-  margin-bottom: 8px;
+  margin-bottom: 8px; /* يترك مسافة 8px تحت كل عنصر في القائمة لتبدو مرتبة ومريحة.  */
 }
 
 }
