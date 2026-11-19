@@ -13,11 +13,12 @@ h1{
     color: rgb(203, 141, 141);
 }
  h2{
-  color: brown;
+  color: #2f0432;
    border-bottom: 2px solid #b471ba;  /* الحدّ بينهما*/
    padding-bottom: 20px;
 }
 
 li {
+  color: #b471ba;
     margin-bottom: 8px;
   }
